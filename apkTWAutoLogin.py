@@ -1,6 +1,5 @@
 import requests, re, os
 from bs4 import BeautifulSoup
-
 class apktw:
     def __init__(self):
         self.session = requests.session()
