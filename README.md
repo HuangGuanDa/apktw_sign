@@ -1,1 +1,1 @@
-# apk.tw autosign
+autosign
