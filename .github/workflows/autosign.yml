@@ -4,7 +4,7 @@ on:
         branches:
             - master
     schedule:
-        - cron: '1,5,10,15 16 * * *'
+        - cron: '1,5,10,15,30 16 * * *'
 jobs:
     start_sign:
         name: start daily sign
